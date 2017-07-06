@@ -1,0 +1,20 @@
+{
+  "name": "karma-jasmine-runner-reporter",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dinukadesilva/karma-jasmine-runner-reporter",
+  "authors": [
+    "Dinuka De Silva <dinuka.desilva@pearson.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine": "~2.3.4"
+  }
+}
